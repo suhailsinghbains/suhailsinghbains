@@ -54,5 +54,16 @@ Next JS ➡️,
 APIs 🔄, 
 .... to long, next time i should etc ;P
 
+## 🌟 Projects
+| Project | Description |
+| --- | --- |
+| [WAV to MIDI Converter Website](https://github.com/suhailsinghbains/WAV-to-MIDI-Converter) | Reverse-engineered an existing WAV to MIDI conversion website and integrated its backend system into our webpage. |
+| [E-Learning WebApp](https://github.com/suhailsinghbains/E-Learning-WebApp) | Developed a web application with distinct user roles, including students and administrators, each accessing dedicated webpages. |
+| [Client-Server File Display](https://github.com/suhailsinghbains/Client-Server-File-Display) | Utilized multithreading to retrieve and consolidate data from client and server files, presenting it in a specific format as part of the coursework with a team of 2. |
+| [Web Search Engine](https://github.com/suhailsinghbains/Web-Search-Engine) | Developed an early-stage web search engine as part of the coursework with a team of 3. |
+| [Email for Visually Challenged](https://github.com/suhailsinghbains/Email-for-Visually-Challenged) | Devised a new Chrome Extension for the coursework with a team of 3, facilitating visually challenged individuals to access email seamlessly. |
+| [Women Safety](https://github.com/suhailsinghbains/Women-Safety-App) | Individually devised Android (Java) Application for the MOM 2k18 competition, focusing on women's safety and security. |
+
+
 
 Feel free to reach out, and let's paint the canvas of technology with strokes of brilliance and innovation. 🌈✨

@@ -59,5 +59,9 @@ APIs 🔄,
 | [Women Safety](https://github.com/suhailsinghbains/Women-Safety-App) |  Created Android (Java) Application for the MOM 2k18 competition, focusing on women's safety and security. |
 
 
+| [![Github stats](https://github-readme-stats.vercel.app/api?username=suhailsinghbains&count_private=true&show_icons=true&theme=vue)](https://github.com/suhailsinghbains) | [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=suhailsinghbains&layout=compact&langs_count=8&theme=vue)](https://github.com/suhailsinghbains) |
+|---|---|
+| ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=suhailsinghbains) | |
+
 
 Feel free to reach out, and let's paint the canvas of technology with strokes of brilliance and innovation. 🌈✨
